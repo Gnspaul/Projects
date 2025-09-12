@@ -1,0 +1,33 @@
+img {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+}
+body {
+  border: 5px solid black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  display: block;
+  overflow-x: auto;
+  max-width: 750px;
+  margin: auto;
+  background-color: gray;
+  background-image: url(https://tshirtslayer.com/files-tshirt/styles/shirtview/public/user-31950/tss--071418b8ce1644b65d42a1c3f8d45315.jpg);
+}
+ul {
+  list-style: none;
+  padding-right: 40px;
+}
+
+div {
+  background-color: lightgray;
+}
+
+.cart {
+  font-size: 20px;
+  margin: auto;
+}
+
+p {
+  padding: 0px 5px;
+}

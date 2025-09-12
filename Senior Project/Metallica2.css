@@ -1,0 +1,55 @@
+body {
+  background-color: gray;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VW25MGqHv00JCKgsLUyHb65MlC3_gn9Nig&usqp=CAU);
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+}
+div {
+  margin: auto;
+  max-width: 1000px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.t1,
+.t2 {
+  margin: auto;
+  max-width: 400px;
+}
+
+td {
+  text-align: center;
+}
+
+.all {
+  border: 5px solid black;
+  overflow-x: auto;
+  background-color: lightgray;
+}
+
+p {
+  padding: 0px 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:visited {
+  color: black;
+}
+
+a {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:active {
+  color: red;
+}

@@ -1,0 +1,38 @@
+img {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+}
+body {
+  border: 5px solid black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  display: block;
+  overflow-x: auto;
+  max-width: 750px;
+  margin: auto;
+  background-color: gray;
+  background-image: url(https://lastfm.freetls.fastly.net/i/u/500x500/084a8307815d612179b3ddbfac0405ac.jpg);
+}
+ul {
+  list-style: none;
+  padding-right: 40px;
+}
+
+div {
+  background-color: lightgray;
+}
+
+.cart {
+  font-size: 20px;
+  margin: auto;
+}
+
+p {
+  padding: 0px 5px;
+}
+
+ol {
+  margin: auto;
+  padding-right: 40px;
+}
